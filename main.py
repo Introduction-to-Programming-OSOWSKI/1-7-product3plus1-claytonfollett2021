@@ -1,4 +1,4 @@
-def productThreePlusOne(x, y, z):
+def product3Plus1(x, y, z):
     return ((x * y) * z) + 1
 
-print (productThreePlusOne(3, 4, 5))
+print (product3Plus1(2, 2, 2))
